@@ -14,6 +14,7 @@ movimiento, 2 LEDs que representan sus ojos y 3 servomotores para mover los braz
 cables jumper para conectar todos los componentes y programamos el Arduino utilizando el lenguaje C++, indicándole 
 qué acciones realizar. Por último, usamos distintos materiales para armar su cuerpo y darle la forma y apariencia 
 de un pingüino, como si tuviera su propia piel.
+
 #────────────────────────── ⋆⋅𖤓⋅⋆ ──────────────────────────
 # Código 
 
