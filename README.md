@@ -1,6 +1,21 @@
 # Semana-TP--Purby
-Es algún tipo de robot o animatronico que se parece a un furby pero con un mecanismo diferente y  forma de pinguino.
+Es algún tipo de robot o animatrónico que se parece a un furby pero con un mecanismo diferente y  forma de pingüino.
 
+# ¿Qué se hizo?
+Hicimos Purby, un proyecto inspirado en los Furbys, pero con nuestro propio diseño de pingüino. La idea fue hacer 
+un juguete que pudiera detectar cuando alguien lo toca y reaccionar moviendo algunas partes y prendiendo luces.
+# ¿Con qué propósito?
+El propósito fue poner en práctica lo que aprendimos en la especialidad de programación y demostrar que podemos
+crear algo desde cero usando programación y electrónica. También queríamos hacer un proyecto divertido.
+# ¿Qué herramientas utilizamos?
+Para hacer Purby utilizamos:
+-Arduino UNO, que es el que controla todo.
+-Un sensor PIR, para detectar movimiento.
+-2 LEDs, para representar los ojos.
+-3 servomotores, para mover los brazos y los parpados.
+-Cables jumper, para conectar los componentes.
+-El lenguaje de programación  C++, para programar el Arduino y decirle qué hacer.
+-También usamos distintos materiales para armar el cuerpo y darle la forma de pingüino. (como la piel de un pingüino)
 
 #include <Servo.h>
 
