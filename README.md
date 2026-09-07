@@ -1,4 +1,4 @@
-# ೃ࿔°❀⋆.ೃ࿔.*⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°
+# ೃ࿔°❀⋆.ೃ࿔.*⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°ೃ
 # Semana-TP--Purby ୨ৎ
 Es algún tipo de robot o animatrónico que se parece a un furby pero con un mecanismo diferente y  forma de pingüino. 
 # ────────────── ⋆⋅𖤓⋅⋆ ──────────────
