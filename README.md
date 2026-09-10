@@ -18,4 +18,4 @@ de un pingüino, como si tuviera su propia piel.
 
 # ────────────── ⋆⋅𖤓⋅⋆ ──────────────
 # Explicacion de código ୨ৎ
-El codigo hace que gracias al sensor detecta algo permita mover parpados, brazos y prenda las luces led de sus ojos
+El codigo hace que gracias al sensor detecta algo permita mover parpados, brazos y prenda las luces led de sus ojos.
